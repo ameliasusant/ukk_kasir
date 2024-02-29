@@ -1,6 +1,6 @@
 Administrator
-- Username : Admin
-- Password : Admin
+- Username : admin
+- Password : admin
 Petugas
-- Petugas
-- Petugas
+- Username : petugas
+- Password : petugas
